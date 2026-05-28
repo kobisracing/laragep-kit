@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "laravel": {
+      "source": "ulpi-io/skills",
+      "sourceType": "github",
+      "skillPath": "laravel/SKILL.md",
+      "computedHash": "37ea00c262a03c2006ca120b4b65a11e576ab9417b3167dfda809288b4c3af0d"
+    },
+    "laravel-filament": {
+      "source": "ulpi-io/skills",
+      "sourceType": "github",
+      "skillPath": "laravel-filament/SKILL.md",
+      "computedHash": "892a85ebc36eb4af265fcdf1d8e4312d1de4299edf5aeb2d5193c91e2c93cc98"
+    }
+  }
+}
